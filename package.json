@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-remark-twemoji",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btnwtn/gatsby-remark-twemoji.git"
+  },
+  "author": "btnwtn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btnwtn/gatsby-remark-twemoji/issues"
+  },
+  "homepage": "https://github.com/btnwtn/gatsby-remark-twemoji#readme",
+  "dependencies": {
+    "twemoji": "^2.5.1",
+    "unist-util-visit": "^1.3.0"
+  }
+}
